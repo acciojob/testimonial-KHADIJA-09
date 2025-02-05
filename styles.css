@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.main-container{
+	padding : 10 px
+	background-color : grey
+}
+.testo
+{
+	padding : 10px
+	border : 1px
+	background-color: white
+}
+.testo p{
+	font-size : 5px
+}
+.testo span{
+	text-align : right 
+	font-style : italic
+}
